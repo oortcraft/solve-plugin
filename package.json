@@ -1,0 +1,12 @@
+{
+  "name": "solve-plugin",
+  "version": "0.1.0",
+  "description": "MD-centric problem-solving agent framework for Claude Code",
+  "author": "cloudoort",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "plugin",
+    "problem-solving"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "project_name": "{{PROJECT_NAME}}",
+  "current_phase": "problem",
+  "phase_history": [
+    {
+      "phase": "problem",
+      "entered_at": "{{TIMESTAMP}}",
+      "exited_at": null
+    }
+  ],
+  "created_at": "{{TIMESTAMP}}",
+  "updated_at": "{{TIMESTAMP}}",
+  "transition_log": []
+}
